@@ -1,7 +1,7 @@
 # UTS-PAM-Bagasyah
 Nama aplikasinya adalah Belajar Pancasila. Belajar Pancasila adalah aplikasi yang berisi tentang pembelajaran tentang pancasila, dalam aplikasi tersebut berisi tentang pengertian pancasila, sila pertama, kedua, ketiga, keempat, kelima, dan juga berisi tentang lagu kebangsaan indonesia yaitu indonesia raya.
 
-Modul expo yang saya gunakan adalah expo-fonts dan expo-audio.
+Daftar package yang saya gunakan adalah expo-fonts dan expo-audio.
 
 Untuk tahap penginstalannya adalah :
 
